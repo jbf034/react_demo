@@ -1,0 +1,18 @@
+{
+  "name": "react_test",
+  "description": "",
+  "main": "entry.js",
+  "authors": [
+    "jo <jo@agideo.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
